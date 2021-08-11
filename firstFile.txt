@@ -1,10 +1,10 @@
 line1 1
 line2 1
-line3 fol2
-line4 fol2
-line5
-line6
-line7
+line3
+line4
+line5 fol1
+line6 fol1
+line7 another
 line8
 line9 1
 line10 1
